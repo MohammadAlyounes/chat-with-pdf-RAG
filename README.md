@@ -2,6 +2,15 @@ Chat with My PDF Book - RAG System
 
 A Retrieval-Augmented Generation (RAG) system that enables intelligent conversations with PDF documents (Books) using vector embeddings and large language models.
 
+
+
+Project Architecture
+
+
+<img width="1082" height="896" alt="project_architecture" src="https://github.com/user-attachments/assets/8a68a71e-67fc-4d23-a541-833e2b8cab00" />
+
+
+
 (Please see the screenshots in the images directory for more explanation)
 🚀 Features
 
@@ -117,5 +126,5 @@ jupyter notebook generation_pipeline.ipynb
 * Hybrid search: Combine semantic and keyword-based retrieval
 
 * Query optimization: Automatic query expansion and refinement
-
+  
 * Model switching: Support for multiple LLM backends
