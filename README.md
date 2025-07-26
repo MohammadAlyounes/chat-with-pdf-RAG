@@ -2,7 +2,6 @@ Chat with My PDF Book - RAG System
 
 A Retrieval-Augmented Generation (RAG) system that enables intelligent conversations with PDF documents (Books) using vector embeddings and large language models.
 
-Linkedin Post: https://www.linkedin.com/feed/update/urn:li:activity:7354869978690383872/
 
 Project Architecture
 
