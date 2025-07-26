@@ -1,0 +1,26 @@
+# FAISS vector database files
+*.faiss
+*.pkl
+*.pickle
+faiss_index/
+vector_store/
+
+# PDF files (copyrighted content)
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Large data files
+data/
+pdf_file/
