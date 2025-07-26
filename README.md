@@ -12,6 +12,9 @@ Project Architecture
 
 
 (Please see the screenshots in the images directory for more explanation)
+
+ Main query question prompt from our book: "How much data was produced by the assault on an al-Qaeda safe house in Afghanistan in 2017? Give me any realistic approximation response."
+
 🚀 Features
 
 PDF Text Extraction: Automated text processing and chunking (for book structure)
